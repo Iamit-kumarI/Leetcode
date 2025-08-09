@@ -1,44 +1,65 @@
 ____________________ leetcode _________________________________________________________________
+#17. Letter Combinations of a Phone Number
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/7016663/java-100-o3-n-4-m-by-amitk300-cbl1
+
+#33. Search in Rotated Sorted Array
+https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/6971633/java-solution-100-binary-search-ologn-by-a2oo
+
+#51. N-Queens
+https://leetcode.com/problems/n-queens/solutions/7040149/java-beats-100-time-space-on-by-amitk300-7tmi
+
+#69 Sqrt
+https://leetcode.com/problems/sqrtx/solutions/6962942/binary-search-1-x-const-space
+
+#78. Subsets
+https://leetcode.com/problems/subsets/solutions/7006498/java-simple-list-approach-by-amitk300-0nzv
+
+#81. Search in Rotated Sorted Array II
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/solutions/7061580/java-beats-100-ologn-by-amitk300-3rfx
+
+#90. Subsets II
+https://leetcode.com/problems/subsets-ii/solutions/7025499/java-bests-100-simple-solution-by-amitk3-ssej
+
+#125. Valid Palindrome
+https://leetcode.com/problems/valid-palindrome/solutions/6980911/java-recursive-solution-o1-by-amitk300-8ahj
+https://leetcode.com/problems/valid-palindrome/solutions/6980977/java-brute-force-approach-o1-by-amitk300-dtvh
+
+#201. Bitwise AND of Numbers Range
+https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/6971784/java-bit-manupulation-beats-100-by-amitk-uk1r
+
+#231. Power of Two
+https://leetcode.com/problems/power-of-two/solutions/6968118/java-solution-bit-manupulation-100-beats
+
+#268. Missing Number
+https://leetcode.com/problems/missing-number/solutions/6974474/java-beats100-on-by-amitk300-ajrs
+
+#287. Find the Duplicate Number
+https://leetcode.com/problems/find-the-duplicate-number/solutions/6980816/java-5-lines-of-code-o1-const-by-amitk30-3bkh
+
+#342. Power of Four
+https://leetcode.com/problems/power-of-four/solutions/7037172/java-beats-100-ologn-by-amitk300-jjz9/
+
 
 #344. Reverse String
 https://leetcode.com/problems/reverse-string/solutions/6944065/java-simple-for-loop-via-recusion-as-wel-zpel
 
+#389. Find the Difference
+https://leetcode.com/problems/find-the-difference/solutions/7044544/java-beats-100-3-lines-of-code-by-amitk3-javl
+
+#397. Integer Replacement
+https://leetcode.com/problems/integer-replacement/solutions/6991701/java-solution-100-logn-by-amitk300-0cby
+
 #509. Fibonacci Number
 https://leetcode.com/problems/fibonacci-number/solutions/6943844/java-3-lines-of-code-recursive-approach
+
+#693. Binary Number with Alternating Bits
+https://leetcode.com/problems/binary-number-with-alternating-bits/solutions/6979845/java-ologn-beats-100-by-amitk300-lafg
 
 #704 binary search LTC 
 https://leetcode.com/problems/binary-search/solutions/6942909/recursive-simple-binary-search
 
 #803 flip bit
 https://leetcode.com/problems/flipping-an-image/solutions/6962190/java-solution-onm-cont-space-by-amitk300-ex6r
-
-#69 Sqrt
-https://leetcode.com/problems/sqrtx/solutions/6962942/binary-search-1-x-const-space
-
-#231. Power of Two
-https://leetcode.com/problems/power-of-two/solutions/6968118/java-solution-bit-manupulation-100-beats
-
-#33. Search in Rotated Sorted Array
-https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/6971633/java-solution-100-binary-search-ologn-by-a2oo
-
-#201. Bitwise AND of Numbers Range
-https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/6971784/java-bit-manupulation-beats-100-by-amitk-uk1r
-
-#268. Missing Number
-https://leetcode.com/problems/missing-number/solutions/6974474/java-beats100-on-by-amitk300-ajrs
-
-#693. Binary Number with Alternating Bits
-https://leetcode.com/problems/binary-number-with-alternating-bits/solutions/6979845/java-ologn-beats-100-by-amitk300-lafg
-
-#287. Find the Duplicate Number
-https://leetcode.com/problems/find-the-duplicate-number/solutions/6980816/java-5-lines-of-code-o1-const-by-amitk30-3bkh
-
-#125. Valid Palindrome
-https://leetcode.com/problems/valid-palindrome/solutions/6980911/java-recursive-solution-o1-by-amitk300-8ahj
-https://leetcode.com/problems/valid-palindrome/solutions/6980977/java-brute-force-approach-o1-by-amitk300-dtvh
-
-#397. Integer Replacement
-https://leetcode.com/problems/integer-replacement/solutions/6991701/java-solution-100-logn-by-amitk300-0cby
 
 #1486. XOR Operation in an Array
 https://leetcode.com/problems/xor-operation-in-an-array/solutions/6996138/java-bests-100on-by-amitk300-35og
@@ -49,26 +70,6 @@ https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000196/jav
 
 #3370. Smallest Number With All Set Bits
 https://leetcode.com/problems/smallest-number-with-all-set-bits/solutions/7004474/java-beats-100-ologn-by-amitk300-cr0g
-
-#78. Subsets
-https://leetcode.com/problems/subsets/solutions/7006498/java-simple-list-approach-by-amitk300-0nzv
-
-#17. Letter Combinations of a Phone Number
-https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/7016663/java-100-o3-n-4-m-by-amitk300-cbl1
-
-#90. Subsets II
-https://leetcode.com/problems/subsets-ii/solutions/7025499/java-bests-100-simple-solution-by-amitk3-ssej
-
-#342. Power of Four
-https://leetcode.com/problems/power-of-four/solutions/7037172/java-beats-100-ologn-by-amitk300-jjz9/
-
-#51. N-Queens
-https://leetcode.com/problems/n-queens/solutions/7040149/java-beats-100-time-space-on-by-amitk300-7tmi
-
-#389. Find the Difference
-https://leetcode.com/problems/find-the-difference/solutions/7044544/java-beats-100-3-lines-of-code-by-amitk3-javl
-
-#
 
 
 #
