@@ -11,6 +11,9 @@ https://leetcode.com/problems/n-queens/solutions/7040149/java-beats-100-time-spa
 #69 Sqrt
 https://leetcode.com/problems/sqrtx/solutions/6962942/binary-search-1-x-const-space
 
+74. Search a 2D Matrix
+#https://leetcode.com/problems/search-a-2d-matrix/solutions/7076727/java-beats-100-recursive-solution-by-ami-ye17
+
 #78. Subsets
 https://leetcode.com/problems/subsets/solutions/7006498/java-simple-list-approach-by-amitk300-0nzv
 
