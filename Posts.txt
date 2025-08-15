@@ -84,7 +84,7 @@ https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000196/jav
 https://leetcode.com/problems/smallest-number-with-all-set-bits/solutions/7004474/java-beats-100-ologn-by-amitk300-cr0g
 
 
-#
+#0
 
 git add Posts.txt
 git commit -m "Updated Posts.txt"
