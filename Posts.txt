@@ -52,6 +52,9 @@ https://leetcode.com/problems/power-of-four/solutions/7037172/java-beats-100-olo
 #344. Reverse String
 https://leetcode.com/problems/reverse-string/solutions/6944065/java-simple-for-loop-via-recusion-as-wel-zpel
 
+#367. Valid Perfect Square
+https://leetcode.com/problems/valid-perfect-square/solutions/7083664/java-beats-100-one-line-solution-by-amit-thvw
+
 #389. Find the Difference
 https://leetcode.com/problems/find-the-difference/solutions/7044544/java-beats-100-3-lines-of-code-by-amitk3-javl
 
