@@ -93,11 +93,9 @@ git add Posts.txt
 git commit -m "Updated Posts.txt"
 git push
 
-or-
+or
 
 git add Posts.txt && git commit -m "update" && git push
-
-
 
 
 
