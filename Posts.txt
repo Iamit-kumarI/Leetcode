@@ -1,4 +1,8 @@
 ____________________ leetcode _________________________________________________________________
+
+#3. Longest Substring Without Repeating Characters
+https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/7096403/java-optimising-soluution-by-amitk300-is8g
+
 #17. Letter Combinations of a Phone Number
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/7016663/java-100-o3-n-4-m-by-amitk300-cbl1
 
