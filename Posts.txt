@@ -43,6 +43,9 @@ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/solutions/
 #201. Bitwise AND of Numbers Range
 https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/6971784/java-bit-manupulation-beats-100-by-amitk-uk1r
 
+#209. Minimum Size Subarray Sum
+https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7107555/java-beats-100-simple-solution-by-amitk3-x4vw
+
 #231. Power of Two
 https://leetcode.com/problems/power-of-two/solutions/6968118/java-solution-bit-manupulation-100-beats
 
