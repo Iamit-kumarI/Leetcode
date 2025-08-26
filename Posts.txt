@@ -44,6 +44,9 @@ https://leetcode.com/problems/valid-palindrome/solutions/6980977/java-brute-forc
 https://leetcode.com/problems/linked-list-cycle/solutions/7123261/java-on-o1-by-amitk300-d6ib
 https://leetcode.com/problems/linked-list-cycle/solutions/7123289/java-beats-100-on-by-amitk300-crv8
 
+#142. Linked List Cycle II
+https://leetcode.com/problems/linked-list-cycle-ii/solutions/7123578/java-beats-100-on-by-amitk300-ceoc
+
 #153. Find Minimum in Rotated Sorted Array
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/7072616/java-beats-100-ologn-by-amitk300-hybw
 
