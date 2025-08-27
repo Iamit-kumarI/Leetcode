@@ -56,7 +56,7 @@ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/solutions/
 #201. Bitwise AND of Numbers Range
 https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/6971784/java-bit-manupulation-beats-100-by-amitk-uk1r
 
-#202. Happy Number
+#202. Happy Number (two pointer slow fast)
 https://leetcode.com/problems/happy-number/solutions/7126865/java-beats-100-ologn-by-amitk300-t1rs
 
 #209. Minimum Size Subarray Sum
