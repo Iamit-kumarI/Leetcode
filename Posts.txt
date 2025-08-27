@@ -99,6 +99,9 @@ https://leetcode.com/problems/binary-search/solutions/6942909/recursive-simple-b
 #803 flip bit
 https://leetcode.com/problems/flipping-an-image/solutions/6962190/java-solution-onm-cont-space-by-amitk300-ex6r
 
+#876. Middle of the Linked List
+https://leetcode.com/problems/middle-of-the-linked-list/solutions/7126918/java-beats-100-on-by-amitk300-7g5s
+
 #1486. XOR Operation in an Array
 https://leetcode.com/problems/xor-operation-in-an-array/solutions/6996138/java-bests-100on-by-amitk300-35og
 
