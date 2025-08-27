@@ -47,6 +47,9 @@ https://leetcode.com/problems/linked-list-cycle/solutions/7123289/java-beats-100
 #142. Linked List Cycle II
 https://leetcode.com/problems/linked-list-cycle-ii/solutions/7123578/java-beats-100-on-by-amitk300-ceoc
 
+#148. Sort List
+https://leetcode.com/problems/sort-list/solutions/7127172/java-beats-95-onlogn-by-amitk300-fwmh
+
 #153. Find Minimum in Rotated Sorted Array
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/7072616/java-beats-100-ologn-by-amitk300-hybw
 
