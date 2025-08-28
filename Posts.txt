@@ -62,6 +62,9 @@ https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/6971784/jav
 #202. Happy Number (two pointer slow fast)
 https://leetcode.com/problems/happy-number/solutions/7126865/java-beats-100-ologn-by-amitk300-t1rs
 
+#206. Reverse Linked List
+https://leetcode.com/problems/reverse-linked-list/solutions/7130547/java-100-on-by-amitk300-2ayo
+
 #209. Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7107555/java-beats-100-simple-solution-by-amitk3-x4vw
 
