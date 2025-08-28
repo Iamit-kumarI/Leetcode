@@ -63,6 +63,7 @@ https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/6971784/jav
 https://leetcode.com/problems/happy-number/solutions/7126865/java-beats-100-ologn-by-amitk300-t1rs
 
 #206. Reverse Linked List 
+-inPlace approach: https://leetcode.com/problems/reverse-linked-list/solutions/7130606/java-100-ono1-by-amitk300-3izr
 -recursive approach: https://leetcode.com/problems/reverse-linked-list/solutions/7130547/java-100-on-by-amitk300-2ayo
 
 #209. Minimum Size Subarray Sum
