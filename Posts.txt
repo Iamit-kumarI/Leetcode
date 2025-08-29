@@ -36,6 +36,9 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/71201
 #90. Subsets II
 https://leetcode.com/problems/subsets-ii/solutions/7025499/java-bests-100-simple-solution-by-amitk3-ssej
 
+#92. Reverse Linked List II
+
+
 #125. Valid Palindrome
 https://leetcode.com/problems/valid-palindrome/solutions/6980911/java-recursive-solution-o1-by-amitk300-8ahj
 https://leetcode.com/problems/valid-palindrome/solutions/6980977/java-brute-force-approach-o1-by-amitk300-dtvh
