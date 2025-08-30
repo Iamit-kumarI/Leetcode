@@ -6,6 +6,9 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/sol
 #17. Letter Combinations of a Phone Number
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/7016663/java-100-o3-n-4-m-by-amitk300-cbl1
 
+#19. Remove Nth Node From End of List
+brute force Approach: https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/7138121/java-beats-100-on-by-amitk300-7dw0
+
 #21. Merge Two Sorted Lists
 https://leetcode.com/problems/merge-two-sorted-lists/solutions/7120554/java-100-on-m-by-amitk300-ghje
 
