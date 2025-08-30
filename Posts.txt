@@ -13,6 +13,9 @@ Optimise Approach Coming:
 #21. Merge Two Sorted Lists
 https://leetcode.com/problems/merge-two-sorted-lists/solutions/7120554/java-100-on-m-by-amitk300-ghje
 
+#
+https://leetcode.com/problems/reverse-nodes-in-k-group/solutions/7138491/java-simple-solution-on-by-amitk300-q70t
+
 #28. Find the Index of the First Occurrence in a String
 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7093122/java-beats-100-om-n-by-amitk300-5fkp
 
@@ -25,7 +28,7 @@ https://leetcode.com/problems/n-queens/solutions/7040149/java-beats-100-time-spa
 #69 Sqrt
 https://leetcode.com/problems/sqrtx/solutions/6962942/binary-search-1-x-const-space
 
-74. Search a 2D Matrix
+#74. Search a 2D Matrix
 #https://leetcode.com/problems/search-a-2d-matrix/solutions/7076727/java-beats-100-recursive-solution-by-ami-ye17
 
 #78. Subsets
