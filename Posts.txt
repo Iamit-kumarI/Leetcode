@@ -13,7 +13,7 @@ Optimise Approach Coming:
 #21. Merge Two Sorted Lists
 https://leetcode.com/problems/merge-two-sorted-lists/solutions/7120554/java-100-on-m-by-amitk300-ghje
 
-#
+#25. Reverse Nodes in k-Group
 https://leetcode.com/problems/reverse-nodes-in-k-group/solutions/7138491/java-simple-solution-on-by-amitk300-q70t
 
 #28. Find the Index of the First Occurrence in a String
