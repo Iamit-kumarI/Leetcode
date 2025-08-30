@@ -1,4 +1,4 @@
-____________________ leetcode _________________________________________________________________
+____________________ leetcode _________________________________________________________________//need to update
 
 #3. Longest Substring Without Repeating Characters
 https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/7096403/java-optimising-soluution-by-amitk300-is8g
@@ -24,6 +24,9 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/6971633/j
 
 #51. N-Queens
 https://leetcode.com/problems/n-queens/solutions/7040149/java-beats-100-time-space-on-by-amitk300-7tmi
+
+#61. Rotate List
+https://leetcode.com/problems/rotate-list/solutions/7138705/java-beats-100-on-by-amitk300-zmnt
 
 #69 Sqrt
 https://leetcode.com/problems/sqrtx/solutions/6962942/binary-search-1-x-const-space
