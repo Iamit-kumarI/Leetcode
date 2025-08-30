@@ -54,6 +54,9 @@ https://leetcode.com/problems/linked-list-cycle/solutions/7123289/java-beats-100
 #142. Linked List Cycle II
 https://leetcode.com/problems/linked-list-cycle-ii/solutions/7123578/java-beats-100-on-by-amitk300-ceoc
 
+#143. Reorder List
+https://leetcode.com/problems/reorder-list/solutions/7138361/java-beats-100-on-by-amitk300-9o56
+
 #148. Sort List
 https://leetcode.com/problems/sort-list/solutions/7127172/java-beats-95-onlogn-by-amitk300-fwmh
 
