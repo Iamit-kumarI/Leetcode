@@ -43,7 +43,7 @@ https://leetcode.com/problems/subsets/solutions/7006498/java-simple-list-approac
 #81. Search in Rotated Sorted Array II
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/solutions/7061580/java-beats-100-ologn-by-amitk300-3rfx
 
-#
+#82. Remove Duplicates from Sorted List II
 https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/solutions/7147565/java-beats-100-on-by-amitk300-qeq7
 
 #83. Remove Duplicates from Sorted List 
