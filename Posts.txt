@@ -84,6 +84,9 @@ https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/6971784/jav
 #202. Happy Number (two pointer slow fast)
 https://leetcode.com/problems/happy-number/solutions/7126865/java-beats-100-ologn-by-amitk300-t1rs
 
+#
+https://leetcode.com/problems/remove-linked-list-elements/solutions/7150949/java-beats-100-on-by-amitk300-xwwc
+
 #206. Reverse Linked List 
 -inPlace approach: https://leetcode.com/problems/reverse-linked-list/solutions/7130606/java-100-ono1-by-amitk300-3izr
 -recursive approach: https://leetcode.com/problems/reverse-linked-list/solutions/7130547/java-100-on-by-amitk300-2ayo
