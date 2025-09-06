@@ -97,7 +97,7 @@ https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7107555/java-b
 #231. Power of Two
 https://leetcode.com/problems/power-of-two/solutions/6968118/java-solution-bit-manupulation-100-beats
 
-#232. Implement Queue using Stacks
+#232. Implement Queue using Stacks(2 stacks)
 https://leetcode.com/problems/implement-queue-using-stacks/solutions/7162362/java-beats-100-on-by-amitk300-lq9e
 
 #234. Palindrome Linked List - optmise if can dry run also
