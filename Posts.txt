@@ -149,6 +149,9 @@ https://leetcode.com/problems/flipping-an-image/solutions/6962190/java-solution-
 #876. Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/solutions/7126918/java-beats-100-on-by-amitk300-7g5s
 
+#
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solutions/7165271/java-beats-100-on-by-amitk300-aegk
+
 #1486. XOR Operation in an Array
 https://leetcode.com/problems/xor-operation-in-an-array/solutions/6996138/java-bests-100on-by-amitk300-35og
 
