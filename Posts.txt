@@ -118,6 +118,9 @@ https://leetcode.com/problems/missing-number/solutions/6974474/java-beats100-on-
 #287. Find the Duplicate Number
 https://leetcode.com/problems/find-the-duplicate-number/solutions/6980816/java-5-lines-of-code-o1-const-by-amitk30-3bkh
 
+#
+https://leetcode.com/problems/odd-even-linked-list/solutions/7168476/java-beats-100-o-n
+
 #342. Power of Four
 https://leetcode.com/problems/power-of-four/solutions/7037172/java-beats-100-ologn-by-amitk300-jjz9/
 
