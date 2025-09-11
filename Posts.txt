@@ -127,7 +127,6 @@ https://leetcode.com/problems/odd-even-linked-list/solutions/7168476/java-beats-
 #342. Power of Four
 https://leetcode.com/problems/power-of-four/solutions/7037172/java-beats-100-ologn-by-amitk300-jjz9/
 
-
 #344. Reverse String
 https://leetcode.com/problems/reverse-string/solutions/6944065/java-simple-for-loop-via-recusion-as-wel-zpel
 
@@ -169,6 +168,9 @@ https://leetcode.com/problems/xor-operation-in-an-array/solutions/6996138/java-b
 
 #1541 (stack)
 
+
+#
+https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/7179908/java-beats-100-o-n
 
 #2351. First Letter to Appear Twice
 https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000145/java-beats-100-recursive-solution-by-ami-zjoo
