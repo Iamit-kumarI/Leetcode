@@ -112,7 +112,7 @@ https://leetcode.com/problems/palindrome-linked-list/solutions/7134616/java-simp
 #237. Delete Node in a Linked List
 https://leetcode.com/problems/delete-node-in-a-linked-list/solutions/7150990/java-beats-100-o1-by-amitk300-830n
 
-#
+#242. Valid Anagram
 https://leetcode.com/problems/valid-anagram/solutions/7179494/java-beats-100-o-n
 
 #268. Missing Number
