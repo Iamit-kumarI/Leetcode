@@ -169,7 +169,7 @@ https://leetcode.com/problems/xor-operation-in-an-array/solutions/6996138/java-b
 #1541 (stack)
 
 
-#
+#1662. Check If Two String Arrays are Equivalent
 https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/7179908/java-beats-100-o-n
 
 #2351. First Letter to Appear Twice
