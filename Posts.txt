@@ -134,7 +134,7 @@ https://leetcode.com/problems/reverse-string/solutions/6944065/java-simple-for-l
 #367. Valid Perfect Square
 https://leetcode.com/problems/valid-perfect-square/solutions/7083664/java-beats-100-one-line-solution-by-amit-thvw
 
-#
+#387. First Unique Character in a String
 https://leetcode.com/problems/first-unique-character-in-a-string/solutions/7179567/java-beats-100-o-n
 
 #389. Find the Difference
