@@ -87,6 +87,9 @@ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/solutions/707
 #154. Find Minimum in Rotated Sorted Array II
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/solutions/7072765/java-beats-100-ologn-by-amitk300-9klf
 
+#
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/7182786/java-beats-100-o-n
+
 #201. Bitwise AND of Numbers Range
 https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/6971784/java-bit-manupulation-beats-100-by-amitk-uk1r
 
