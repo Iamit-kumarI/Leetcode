@@ -188,7 +188,7 @@ https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000196/jav
 #3370. Smallest Number With All Set Bits
 https://leetcode.com/problems/smallest-number-with-all-set-bits/solutions/7004474/java-beats-100-ologn-by-amitk300-cr0g
 
-#
+#3541. Find Most Frequent Vowel and Consonant
 https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7186849/java-beats-100-on-by-amitk300-ga08
 
 git add Posts.txt
