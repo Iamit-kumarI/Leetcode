@@ -8,6 +8,9 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/sol
 @7. Reverse Integer
 https://leetcode.com/problems/reverse-integer/solutions/7196590/java-beats-100-o-log-n
 
+@
+https://leetcode.com/problems/palindrome-number/solutions/7200282/java-beats-100-o-log-n
+
 #14. Longest Common Prefix
 https://leetcode.com/problems/longest-common-prefix/solutions/7182569/java-beats-100-o-n-m
 
