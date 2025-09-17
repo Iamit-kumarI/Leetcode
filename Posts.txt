@@ -1,4 +1,8 @@
-____________________ leetcode _________________________________________________________________//need to update false
+____________________ leetcode + Codeforces_____________________________________________________________//need to update false
+------------------ @ means it is from leetcode.com/ZeroGrind
+------------------ # means it is from leetcode.com/amitK300
+------------------ $ means it is from codeforces.com/prifile/aAmit
+------------------ ~ means it is from atcoder.jp/users/amitK300
 @1. Two Sum
 https://leetcode.com/problems/two-sum/solutions/7194229/java-beats-100-o-n-2
 
