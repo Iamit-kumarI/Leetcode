@@ -1,0 +1,61 @@
+see this from my code only
+ if(tail==null){
+            inserFirst(val);
+            return;
+        }
+        Node node=new Node(val);
+        tail.next=node;
+        tail=node;
+        size+=1;
+
+I SAID TO CHAT GPT:
+so if tail is not null means list is created
+ so it comes to new Node(val)
+here it assigns the val to to value suppose if value was 10 then it created another node and assigns value to = 10 and yes its node which is null now
+since we are adding it to the last then it will be last node which is tail its next node thats how it goes tail.next okey so if i am write then where this tails was earlier it tails that node that i am means you will be pointing to next node means now you connnected to this node right so now it tails to that node that you will point here now and as said taill will always point to last so now we have added node to that last so we have moved our tail after tails taht last node right
+ChatGPT said:
+
+CHAT GPT EXPLANATION:
+🔥 Bro, you nailed it! Let me rephrase what you just said in steps to confirm your understanding — because you are actually thinking in the right direction 👌
+
+That code (from insertLast) is:
+if (tail == null) {
+    inserFirst(val);
+    return;
+}
+Node node = new Node(val);   // create new node
+tail.next = node;            // connect old tail → new node
+tail = node;                 // move tail to new node
+size += 1;
+
+Now let’s walk it step by step:
+
+if (tail == null)
+
+This means the list is empty.
+
+In that case, we just use insertFirst, because the first node is also the last node.
+
+Node node = new Node(val);
+
+A new node is created. Example: [10 | null].
+
+node.value = 10, node.next = null.
+
+tail.next = node;
+
+The old tail (say [5 | null]) gets connected to this new node.
+
+So it becomes [5 | next] → [10 | null].
+
+That’s the connection step.
+
+tail = node;
+
+Now tail reference is updated to point to the new node (10).
+
+So before this line, tail was at the old node (5).
+
+After this line, tail moves to new node (10).
+
+This makes sure tail always points to the last node in the list.

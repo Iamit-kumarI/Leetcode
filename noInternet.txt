@@ -1,0 +1,6 @@
+1. remove a string from a paragraph or sentence DONE ONCE
+like this("i am going to newdelhi") remove "new" only;
+
+2. do the merge sort with copyofrange and in another do with copy of range;
+
+3.
