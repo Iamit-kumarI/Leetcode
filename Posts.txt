@@ -110,9 +110,10 @@ https://leetcode.com/problems/happy-number/solutions/7126865/java-beats-100-olog
 #203. Remove Linked List Elements
 https://leetcode.com/problems/remove-linked-list-elements/solutions/7150949/java-beats-100-on-by-amitk300-xwwc
 
-#206. Reverse Linked List 
+#@206. Reverse Linked List 
 -inPlace approach: https://leetcode.com/problems/reverse-linked-list/solutions/7130606/java-100-ono1-by-amitk300-3izr
 -recursive approach: https://leetcode.com/problems/reverse-linked-list/solutions/7130547/java-100-on-by-amitk300-2ayo
+-inPlace approach 3 pointers:https://leetcode.com/problems/reverse-linked-list/solutions/7200399/java-beats-100-o-n
 
 #209. Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7107555/java-beats-100-simple-solution-by-amitk3-x4vw
