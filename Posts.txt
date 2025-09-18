@@ -55,6 +55,9 @@ https://leetcode.com/problems/rotate-list/solutions/7138705/java-beats-100-on-by
 #69 Sqrt
 https://leetcode.com/problems/sqrtx/solutions/6962942/binary-search-1-x-const-space
 
+$71A. A. Way Too Long Words
+https://codeforces.com/problemset/problem/71/A
+
 #74. Search a 2D Matrix
 #https://leetcode.com/problems/search-a-2d-matrix/solutions/7076727/java-beats-100-recursive-solution-by-ami-ye17
 
