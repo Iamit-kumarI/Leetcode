@@ -27,7 +27,7 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/70
 #19. Remove Nth Node From End of List
 brute force Approach: https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/7138121/java-beats-100-on-by-amitk300-7dw0
 Optimise Approach Coming:
-@. 
+@19. Remove Nth Node From End of List
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/7203239/java-beats-100-o-n
 
 #20. Valid Parentheses
