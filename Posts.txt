@@ -32,9 +32,12 @@ https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/7203239
 
 #20. Valid Parentheses
 https://leetcode.com/problems/valid-parentheses/solutions/7165188/java-beats-100-on-by-amitk300-w04f
+@https://leetcode.com/problems/valid-parentheses/solutions/7203668/java-beats-100-o-n
+
 
 #21. Merge Two Sorted Lists
 https://leetcode.com/problems/merge-two-sorted-lists/solutions/7120554/java-100-on-m-by-amitk300-ghje
+
 
 #24. Swap Nodes in Pairs
 https://leetcode.com/problems/swap-nodes-in-pairs/solutions/7145974/java-beats-100-on-by-amitk300-uye5
