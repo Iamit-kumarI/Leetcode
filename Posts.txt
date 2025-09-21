@@ -3,6 +3,7 @@ ____________________ leetcode + Codeforces______________________________________
 ------------------ # means it is from leetcode.com/amitK300
 ------------------ $ means it is from codeforces.com/prifile/aAmit
 ------------------ ~ means it is from atcoder.jp/users/amitK300
+
 @1. Two Sum
 https://leetcode.com/problems/two-sum/solutions/7194229/java-beats-100-o-n-2
 
@@ -177,6 +178,11 @@ https://leetcode.com/problems/find-the-difference/solutions/7044544/java-beats-1
 
 #397. Integer Replacement
 https://leetcode.com/problems/integer-replacement/solutions/6991701/java-solution-100-logn-by-amitk300-0cby
+
+# weekly 564
+Q1. Bitwise OR of Even Numbers in an Array
+https://leetcode.com/contest/weekly-contest-468/problems/bitwise-or-of-even-numbers-in-an-array/description/
+
 
 #509. Fibonacci Number
 https://leetcode.com/problems/fibonacci-number/solutions/6943844/java-3-lines-of-code-recursive-approach
