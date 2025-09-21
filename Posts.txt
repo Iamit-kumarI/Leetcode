@@ -85,6 +85,9 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions/71201
 #84. Largest Rectangle in Histogram(accending order is the main thing)
 https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/7165084/java-beats-100-on-by-amitk300-a4ra
 
+#88. Merge Sorted Array
+
+
 #90. Subsets II
 https://leetcode.com/problems/subsets-ii/solutions/7025499/java-bests-100-simple-solution-by-amitk3-ssej
 
