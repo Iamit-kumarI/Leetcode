@@ -182,7 +182,8 @@ https://leetcode.com/problems/integer-replacement/solutions/6991701/java-solutio
 # weekly 564
 Q1. Bitwise OR of Even Numbers in an Array
 https://leetcode.com/contest/weekly-contest-468/problems/bitwise-or-of-even-numbers-in-an-array/description/
-
+Q2. Maximum Total Subarray Value I
+https://leetcode.com/contest/weekly-contest-468/problems/maximum-total-subarray-value-i/description/
 
 #509. Fibonacci Number
 https://leetcode.com/problems/fibonacci-number/solutions/6943844/java-3-lines-of-code-recursive-approach
