@@ -52,8 +52,9 @@ https://leetcode.com/problems/reverse-nodes-in-k-group/solutions/7138491/java-si
 #28. Find the Index of the First Occurrence in a String
 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7093122/java-beats-100-om-n-by-amitk300-5fkp
 
-#33. Search in Rotated Sorted Array
+# @33. Search in Rotated Sorted Array
 https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/6971633/java-solution-100-binary-search-ologn-by-a2oo
+https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/7212737/java-beats-100-o-n
 
 #51. N-Queens
 https://leetcode.com/problems/n-queens/solutions/7040149/java-beats-100-time-space-on-by-amitk300-7tmi
