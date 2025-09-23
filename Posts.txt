@@ -223,6 +223,9 @@ https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solution
 https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000145/java-beats-100-recursive-solution-by-ami-zjoo
 https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000196/java-beats-100-simple-solution-by-amitk3-i6lu
 
+@
+https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7212961/java-beats-100-o-n
+
 #3370. Smallest Number With All Set Bits
 https://leetcode.com/problems/smallest-number-with-all-set-bits/solutions/7004474/java-beats-100-ologn-by-amitk300-cr0g
 
