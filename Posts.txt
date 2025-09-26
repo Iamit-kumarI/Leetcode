@@ -52,6 +52,9 @@ https://leetcode.com/problems/swap-nodes-in-pairs/solutions/7145974/java-beats-1
 #25. Reverse Nodes in k-Group
 https://leetcode.com/problems/reverse-nodes-in-k-group/solutions/7138491/java-simple-solution-on-by-amitk300-q70t
 
+@
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/7223398/java-beats-100-o-n
+
 #28. Find the Index of the First Occurrence in a String
 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7093122/java-beats-100-om-n-by-amitk300-5fkp
 
