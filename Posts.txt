@@ -238,6 +238,9 @@ https://leetcode.com/problems/middle-of-the-linked-list/solutions/7126918/java-b
 #921. Minimum Add to Make Parentheses Valid
 https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solutions/7165271/java-beats-100-on-by-amitk300-aegk
 
+@993. Cousins in Binary Trees
+https://leetcode.com/problems/cousins-in-binary-tree/solutions/7228393/java-beats-100-on-by-zerogrind-xaff
+
 #1480. Running Sum of 1d Array
 https://leetcode.com/problems/running-sum-of-1d-array/solutions/7168855/java-beats-100-on-by-amitk300-t0pq
 
