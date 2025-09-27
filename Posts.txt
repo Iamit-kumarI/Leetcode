@@ -114,6 +114,9 @@ https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissio
 @107. Binary Tree Level Order Traversal II
 https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/7227207/java-beats-100-on-by-zerogrind-khnm
 
+@
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/solutions/7227654/java-beats-100-o1-extra-space-by-zerogri-g4kx
+
 #125. Valid Palindrome
 https://leetcode.com/problems/valid-palindrome/solutions/6980911/java-recursive-solution-o1-by-amitk300-8ahj
 https://leetcode.com/problems/valid-palindrome/solutions/6980977/java-brute-force-approach-o1-by-amitk300-dtvh
