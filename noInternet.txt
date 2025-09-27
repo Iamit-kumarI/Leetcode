@@ -4,3 +4,56 @@ like this("i am going to newdelhi") remove "new" only;
 2. do the merge sort with copyofrange and in another do with copy of range;
 
 3.
+
+
+- make list which will have all our answers in it
+```
+        List<Integer> result=new ArrayList<>();
+
+```
+
+- the base condition if root is null return the empty list;
+```
+        if(root==null) return result;
+
+```
+- create queue to have all nodes of each level 
+```
+        Queue<TreeNode> queue=new LinkedList<>();
+
+```
+- add root node in it for the first time
+```
+        queue.offer(root);
+
+```
+- now to traverse over queue till it gets empty
+```
+        while(!queue.isEmpty()){
+
+```
+- run loop no of time we had nodes in queue at the start since at each node there might have child so queue size may gets +,- so before traversing the level in var take its size
+```
+        int levelsize=queue.size();
+
+```
+-  no traverse till level size is
+```
+         for(int i=0;i<levelsize;i++){
+
+``` 
+- each time check if current node have left of right child if yes then add it to the queue for next level of traversal
+```
+        if(cNode.left!=null)queue.offer(cNode.left);
+        if(cNode.right!=null)queue.offer(cNode.right);
+```
+- in the end as said only add values in the list of the right side so when we reach levelsize's last element add the value to our list
+```
+        if(i==levelsize-1)result.add(cNode.val);
+
+```
+- in the end return our list
+
+```
+    return result;
+```
