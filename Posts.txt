@@ -114,6 +114,9 @@ https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/721867
 @103. Binary Tree Zigzag Level Order Traversal
 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1782929810
 
+@
+https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/7232290/java-beats-100-on-by-zerogrind-dqm5
+
 @107. Binary Tree Level Order Traversal II
 https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/7227207/java-beats-100-on-by-zerogrind-khnm
 
