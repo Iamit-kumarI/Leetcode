@@ -104,7 +104,9 @@ https://leetcode.com/problems/reverse-linked-list-ii/solutions/7134415/java-beat
 @94. Binary Tree Inorder Traversal
 https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/7219261/java-beats-100-o-n
 
-#@
+@
+https://leetcode.com/problems/symmetric-tree/solutions/7232089/java-beats-100-on-by-zerogrind-fsdr
+
 @102. Binary Tree Level Order Traversal
 https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/7218673/java-beats-100-on-by-zerogrind-441p
 
