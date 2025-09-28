@@ -172,6 +172,9 @@ https://leetcode.com/problems/remove-linked-list-elements/solutions/7150949/java
 #209. Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7107555/java-beats-100-simple-solution-by-amitk3-x4vw
 
+@
+https://leetcode.com/problems/invert-binary-tree/solutions/7232275/java-beats-100-on-by-zerogrind-3d05
+
 #231. Power of Two
 https://leetcode.com/problems/power-of-two/solutions/6968118/java-solution-bit-manupulation-100-beats
 
@@ -225,6 +228,7 @@ https://leetcode.com/problems/fibonacci-number/solutions/6943844/java-3-lines-of
 
 @
 https://leetcode.com/problems/diameter-of-binary-tree/solutions/7232237/java-beats-100-on-by-zerogrind-denr
+
 
 @637. Average of Levels in Binary Tree
 https://leetcode.com/problems/average-of-levels-in-binary-tree/solutions/7219071/java-beats-100-o-n
