@@ -120,6 +120,9 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/7232290/jav
 @107. Binary Tree Level Order Traversal II
 https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/7227207/java-beats-100-on-by-zerogrind-khnm
 
+@112. Path Sum
+https://leetcode.com/problems/path-sum/solutions/7232610/java-beats-100-on-by-zerogrind-oby4
+
 @116. Populating Next Right Pointers in Each Node
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/solutions/7227654/java-beats-100-o1-extra-space-by-zerogri-g4kx
 
@@ -186,6 +189,9 @@ https://leetcode.com/problems/implement-queue-using-stacks/solutions/7162362/jav
 
 #234. Palindrome Linked List - optmise if can dry run also
 https://leetcode.com/problems/palindrome-linked-list/solutions/7134616/java-simple-solution-onlogn-by-amitk300-x5ox
+
+@236. Lowest Common Ancestor of a Binary Tree
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/7232594/java-beats-100-on-by-zerogrind-p3kf
 
 #237. Delete Node in a Linked List
 https://leetcode.com/problems/delete-node-in-a-linked-list/solutions/7150990/java-beats-100-o1-by-amitk300-830n
