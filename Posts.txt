@@ -130,6 +130,9 @@ https://leetcode.com/problems/populating-next-right-pointers-in-each-node/soluti
 https://leetcode.com/problems/valid-palindrome/solutions/6980911/java-recursive-solution-o1-by-amitk300-8ahj
 https://leetcode.com/problems/valid-palindrome/solutions/6980977/java-brute-force-approach-o1-by-amitk300-dtvh
 
+@129. Sum Root to Leaf Numbers
+https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/7232654/java-beats-100-on-by-zerogrind-cshj
+
 #141. Linked List Cycle no optimise bets 15% only
 https://leetcode.com/problems/linked-list-cycle/solutions/7123261/java-on-o1-by-amitk300-d6ib
 https://leetcode.com/problems/linked-list-cycle/solutions/7123289/java-beats-100-on-by-amitk300-crv8
