@@ -278,6 +278,10 @@ https://leetcode.com/problems/xor-operation-in-an-array/solutions/6996138/java-b
 #1662. Check If Two String Arrays are Equivalent
 https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/7179908/java-beats-100-o-n
 
+@
+https://leetcode.com/problems/find-triangular-sum-of-an-array/solutions/7235492/java-o-n-queue-approach
+
+
 #2351. First Letter to Appear Twice
 https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000145/java-beats-100-recursive-solution-by-ami-zjoo
 https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000196/java-beats-100-simple-solution-by-amitk3-i6lu
