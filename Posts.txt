@@ -280,6 +280,7 @@ https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solution
 
 @
 https://leetcode.com/problems/find-triangular-sum-of-an-array/solutions/7235492/java-o-n-queue-approach
+https://leetcode.com/problems/find-triangular-sum-of-an-array/solutions/7235578/java-beats-100-recursion-approach
 
 
 #2351. First Letter to Appear Twice
