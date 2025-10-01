@@ -123,6 +123,9 @@ https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/722
 @112. Path Sum
 https://leetcode.com/problems/path-sum/solutions/7232610/java-beats-100-on-by-zerogrind-oby4
 
+@
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/7239070/java-beats-100-on-by-zerogrind-6e70
+
 @116. Populating Next Right Pointers in Each Node
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/solutions/7227654/java-beats-100-o1-extra-space-by-zerogri-g4kx
 
