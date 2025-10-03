@@ -190,7 +190,7 @@ https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7107555/java-b
 @226. Invert Binary Tree
 https://leetcode.com/problems/invert-binary-tree/solutions/7232275/java-beats-100-on-by-zerogrind-3d05
 
-@
+@230. Kth Smallest Element in a BST
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/7245267/java-beats-100-on-by-zerogrind-a88a
 
 #231. Power of Two
