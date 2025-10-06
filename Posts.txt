@@ -55,7 +55,7 @@ https://leetcode.com/problems/reverse-nodes-in-k-group/solutions/7138491/java-si
 @26. Remove Duplicates from Sorted Array
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/7223398/java-beats-100-o-n
 
-@
+@27. Remove Element
 https://leetcode.com/problems/remove-element/solutions/7252587/java-beats-100-o-n
 
 #@28. Find the Index of the First Occurrence in a String
