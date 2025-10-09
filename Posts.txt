@@ -1,3 +1,242 @@
+🧠 1. Basic Foundations
+
+Time Complexity & Big O Notation ✅
+
+Space Complexity ✅
+
+Recursion & Stack Memory Concept ✅
+
+Iteration vs Recursion✅
+
+🧩 2. Data Structures
+🔹 Arrays
+
+Traversal, insertion, deletion ✅
+
+Prefix sums / Sliding Window
+
+Two-pointer techniques
+
+Sorting algorithms (Bubble ✅, Selection ✅, Insertion ✅, Merge ✅, Quick)
+
+Searching (Linear✅, Binary Search ✅)
+
+Kadane’s Algorithm (Maximum subarray)
+
+Matrix problems (spiral, diagonal, rotate matrix)
+
+🔹 Strings
+
+Character frequency ✅
+
+Palindrome checking ✅
+
+String reversal / rotation✅
+
+Substring / Subsequence
+
+Anagram checking ✅
+
+String compression ✅
+
+KMP algorithm / Rabin-Karp (for pattern matching — optional advanced)
+
+🔹 Linked List
+
+Singly & Doubly linked lists ✅
+
+Insertion / Deletion / Reversal ✅
+
+Detect loop (Floyd’s Cycle Detection) ✅
+
+Middle of linked list ✅
+
+Merge two sorted lists ✅
+
+Intersection point of two lists ✅
+
+🔹 Stack
+
+Stack implementation (array ✅, linked list ✅)
+
+Balanced Parentheses ✅
+
+Next Greater Element
+
+Min Stack
+
+Evaluate Postfix / Prefix expressions
+
+🔹 Queue
+
+Queue implementation (array ✅, linked list ✅)
+
+Circular Queue ✅
+
+Deque (Double-ended Queue) ✅
+
+Stack using Queue / Queue using Stack
+
+Sliding Window Maximum
+
+🔹 Trees
+
+Binary Tree & Binary Search Tree (BST ✅)
+
+Traversals: Inorder✅, Preorder✅, Postorder✅ (both recursive & iterative)
+
+Height / Depth of Tree
+
+Lowest Common Ancestor (LCA)
+
+Symmetric Tree, Same Tree, Mirror Tree
+
+Level Order Traversal (BFS)
+
+Diameter of Binary Tree
+
+Convert Sorted Array to BST
+
+🔹 Heaps & Priority Queue
+
+Min Heap / Max Heap
+
+Heap Sort
+
+Kth largest/smallest element
+
+Top K frequent elements
+
+Merge K sorted arrays
+
+🔹 Hashing / HashMap
+
+Frequency count ✅
+
+Two Sum problem
+
+Subarray with given sum / zero sum
+
+Longest Consecutive Sequence
+
+Group Anagrams
+
+🔹 Graphs
+
+Representation (Adjacency List, Matrix)
+
+BFS & DFS traversal
+
+Detect cycle (Directed & Undirected)
+
+Topological sort
+
+Shortest path algorithms (Dijkstra, Bellman-Ford)
+
+Minimum Spanning Tree (Kruskal, Prim)
+
+Connected Components
+
+🔹 Recursion & Backtracking
+
+Permutations / Combinations
+
+N-Queens Problem
+
+Rat in a Maze
+
+Sudoku Solver
+
+Subsets / Power Set
+
+Generate Parentheses
+
+🔹 Dynamic Programming (DP)
+
+Start with patterns:
+
+Fibonacci (Top-down / Bottom-up)
+
+Climbing Stairs
+
+0/1 Knapsack
+
+Subset Sum / Partition Equal Subset
+
+Longest Common Subsequence
+
+Longest Increasing Subsequence
+
+Edit Distance
+
+Matrix Chain Multiplication
+
+🔹 Greedy Algorithms
+
+Activity Selection
+
+Fractional Knapsack
+
+Huffman Encoding (concept)
+
+Job Sequencing
+
+Minimum Coins for Change
+
+🔹 Miscellaneous / Advanced
+
+Bit Manipulation (XOR tricks ✅, subsets)
+
+Modular Arithmetic
+
+Sliding Window & Two Pointers
+
+Binary Search on Answer
+
+Disjoint Set Union (Union-Find)
+
+Trie (Prefix Tree)
+
+Segment Tree / Fenwick Tree (for range queries – optional advanced)
+
+🧭 3. Practice Platforms
+
+Start practicing these:
+
+LeetCode (most recommended)
+
+GeeksforGeeks (GFG)
+
+InterviewBit
+
+CodeStudio (by Coding Ninjas)
+
+🧱 4. Order to Study
+
+Arrays & Strings ✅
+
+Linked List ✅
+
+Stack & Queue
+
+Recursion + Backtracking ...
+
+Trees
+
+Binary Search & Sorting
+
+HashMap & Sets
+
+Heap
+
+Graphs
+
+Dynamic Programming
+
+Greedy
+
+
+
 ____________________ leetcode + Codeforces_____________________________________________________________//need to update false
 ------------------ @ means it is from leetcode.com/ZeroGrind
 ------------------ # means it is from leetcode.com/amitK300
@@ -148,6 +387,9 @@ https://leetcode.com/problems/populating-next-right-pointers-in-each-node/soluti
 #125. Valid Palindrome
 https://leetcode.com/problems/valid-palindrome/solutions/6980911/java-recursive-solution-o1-by-amitk300-8ahj
 https://leetcode.com/problems/valid-palindrome/solutions/6980977/java-brute-force-approach-o1-by-amitk300-dtvh
+
+@
+https://leetcode.com/problems/word-ladder/solutions/7262604/java-beats-100-bfs-approach
 
 @129. Sum Root to Leaf Numbers
 https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/7232654/java-beats-100-on-by-zerogrind-cshj
