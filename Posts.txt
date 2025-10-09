@@ -510,6 +510,7 @@ https://leetcode.com/problems/diameter-of-binary-tree/solutions/7232237/java-bea
 
 
 @637. Average of Levels in Binary Tree
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/solutions/7262835/java-bfs-on-set-approach-by-zerogrind-93ya
 https://leetcode.com/problems/average-of-levels-in-binary-tree/solutions/7219071/java-beats-100-o-n
 
 @653. Two Sum IV - Input is a BST
