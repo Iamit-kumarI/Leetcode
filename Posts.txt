@@ -512,6 +512,9 @@ https://leetcode.com/problems/diameter-of-binary-tree/solutions/7232237/java-bea
 @637. Average of Levels in Binary Tree
 https://leetcode.com/problems/average-of-levels-in-binary-tree/solutions/7219071/java-beats-100-o-n
 
+@
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/solutions/7262822/java-bfs-on2-brute-approach-by-zerogrind-p875
+
 #693. Binary Number with Alternating Bits
 https://leetcode.com/problems/binary-number-with-alternating-bits/solutions/6979845/java-ologn-beats-100-by-amitk300-lafg
 
