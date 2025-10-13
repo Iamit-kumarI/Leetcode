@@ -502,6 +502,9 @@ https://leetcode.com/problems/find-the-difference/solutions/7044544/java-beats-1
 #397. Integer Replacement
 https://leetcode.com/problems/integer-replacement/solutions/6991701/java-solution-100-logn-by-amitk300-0cby
 
+@449. Serialize and Deserialize BST
+https://leetcode.com/problems/serialize-and-deserialize-bst/solutions/7273003/java-bfs-on-by-zerogrind-i6k5
+
 # weekly 564
 Q1. Bitwise OR of Even Numbers in an Array
 https://leetcode.com/contest/weekly-contest-468/problems/bitwise-or-of-even-numbers-in-an-array/description/
