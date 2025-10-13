@@ -375,6 +375,9 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/solutions/7232290/jav
 @105. Construct Binary Tree from Preorder and Inorder Traversal
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solutions/7270124/java-beats-100-recursive-solution-by-zer-mhx9
 
+@106. Construct Binary Tree from Inorder and Postorder Traversal
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/solutions/7270352/java-beats-100-recursive-approach-by-zer-6ywc
+
 @107. Binary Tree Level Order Traversal II
 https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solutions/7227207/java-beats-100-on-by-zerogrind-khnm
 
