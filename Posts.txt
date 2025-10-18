@@ -317,8 +317,9 @@ https://leetcode.com/problems/length-of-last-word/solutions/7256598/java-beats-1
 #61. Rotate List
 https://leetcode.com/problems/rotate-list/solutions/7138705/java-beats-100-on-by-amitk300-zmnt
 
-#69 Sqrt
+#@69 Sqrt
 https://leetcode.com/problems/sqrtx/solutions/6962942/binary-search-1-x-const-space
+https://leetcode.com/problems/sqrtx/solutions/7284929/java-beats-100-ologn-by-zerogrind-b2gn
 
 $71A. A. Way Too Long Words
 https://codeforces.com/problemset/problem/71/A
