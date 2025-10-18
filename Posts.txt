@@ -434,8 +434,9 @@ https://leetcode.com/problems/compare-version-numbers/solutions/7218498/java-bea
 #167. Two Sum II - Input Array Is Sorted
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/7182786/java-beats-100-o-n
 
-#169. Majority Element
+#@169. Majority Element
 https://leetcode.com/problems/majority-element/solutions/7183631/java-beats-100-o-n
+https://leetcode.com/problems/majority-element/solutions/7284958/java-map-approach-on-by-zerogrind-pvwi
 
 @191. Number of 1 Bits
 https://leetcode.com/problems/number-of-1-bits/solutions/7256668/java-beats-100-o-1
