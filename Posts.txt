@@ -325,6 +325,9 @@ https://leetcode.com/problems/rotate-list/solutions/7138705/java-beats-100-on-by
 https://leetcode.com/problems/sqrtx/solutions/6962942/binary-search-1-x-const-space
 https://leetcode.com/problems/sqrtx/solutions/7284929/java-beats-100-ologn-by-zerogrind-b2gn
 
+@70. Climbing Stairs
+https://leetcode.com/problems/climbing-stairs/solutions/7286375/java-dp-memoization
+
 $71A. A. Way Too Long Words
 https://codeforces.com/problemset/problem/71/A
 
@@ -564,6 +567,9 @@ https://leetcode.com/problems/xor-operation-in-an-array/solutions/6996138/java-b
 
 #1541 (stack)
 
+@#1625. Lexicographically Smallest String After Applying Operations
+https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/solutions/7284988/java-beats-100-on2-by-amitk300-tak1
+https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/solutions/7284986/java-beats-100-on2-by-zerogrind-ysgc
 
 #1662. Check If Two String Arrays are Equivalent
 https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/7179908/java-beats-100-o-n
