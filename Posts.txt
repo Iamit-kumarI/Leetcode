@@ -603,6 +603,10 @@ https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/72
 #3370. Smallest Number With All Set Bits
 https://leetcode.com/problems/smallest-number-with-all-set-bits/solutions/7004474/java-beats-100-ologn-by-amitk300-cr0g
 
+#@3461. Check If Digits Are Equal in String After Operations I
+https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/solutions/7294500/java-beats-100-recursion-by-amitk300-uqy7
+https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/solutions/7294501/java-recursion-beats-100-by-zerogrind-xjor
+
 #3541. Find Most Frequent Vowel and Consonant
 https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7186849/java-beats-100-on-by-amitk300-ga08
 
