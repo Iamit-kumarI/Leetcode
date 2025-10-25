@@ -587,6 +587,10 @@ https://leetcode.com/problems/lexicographically-smallest-string-after-applying-o
 #1662. Check If Two String Arrays are Equivalent
 https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/7179908/java-beats-100-o-n
 
+#@1716. Calculate Money in Leetcode Bank
+https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299462/java-recursive-solution-beats-100-by-ami-4w4c
+https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299463/java-beats-100-recursive-solution-by-zer-36nk
+
 @2221. Find Triangular Sum of an Array
 https://leetcode.com/problems/find-triangular-sum-of-an-array/solutions/7235492/java-o-n-queue-approach
 https://leetcode.com/problems/find-triangular-sum-of-an-array/solutions/7235578/java-beats-100-recursion-approach
