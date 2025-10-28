@@ -324,6 +324,9 @@ https://leetcode.com/problems/length-of-last-word/solutions/7256598/java-beats-1
 #61. Rotate List
 https://leetcode.com/problems/rotate-list/solutions/7138705/java-beats-100-on-by-amitk300-zmnt
 
+@62. Unique Paths
+https://leetcode.com/problems/unique-paths/solutions/7304333/java-2d-dp-recursion-beats-100-by-zerogr-yicq
+
 #@69 Sqrt
 https://leetcode.com/problems/sqrtx/solutions/6962942/binary-search-1-x-const-space
 https://leetcode.com/problems/sqrtx/solutions/7284929/java-beats-100-ologn-by-zerogrind-b2gn
@@ -608,6 +611,10 @@ https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000196/jav
 
 @3005. Count Elements With Maximum Frequency
 https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7212961/java-beats-100-o-n
+
+#@
+https://leetcode.com/problems/make-array-elements-equal-to-zero/solutions/7306962/java-recursion-on-by-zerogrind-ioxt
+https://leetcode.com/problems/make-array-elements-equal-to-zero/solutions/7306985/java-simple-recursion-on-by-amitk300-jhvd
 
 #3370. Smallest Number With All Set Bits
 https://leetcode.com/problems/smallest-number-with-all-set-bits/solutions/7004474/java-beats-100-ologn-by-amitk300-cr0g
