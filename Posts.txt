@@ -315,6 +315,9 @@ https://leetcode.com/problems/search-insert-position/solutions/7284939/java-bina
 @41. First Missing Positive
 https://leetcode.com/problems/first-missing-positive/solutions/7277443/java-beats-100-sorting-approach
 
+#50. Pow(x, n)
+https://leetcode.com/problems/powx-n/solutions/7308993/java-beats-100-recursion-approach-by-ami-h8og
+
 #51. N-Queens
 https://leetcode.com/problems/n-queens/solutions/7040149/java-beats-100-time-space-on-by-amitk300-7tmi
 
@@ -544,8 +547,9 @@ https://leetcode.com/contest/weekly-contest-468/problems/bitwise-or-of-even-numb
 Q2. Maximum Total Subarray Value I
 https://leetcode.com/contest/weekly-contest-468/problems/maximum-total-subarray-value-i/description/
 
-#509. Fibonacci Number
+#@509. Fibonacci Number
 https://leetcode.com/problems/fibonacci-number/solutions/6943844/java-3-lines-of-code-recursive-approach
+https://leetcode.com/problems/fibonacci-number/solutions/7308982/java-beats-100-1d-dp :optimised
 
 @543. Diameter of Binary Tree
 https://leetcode.com/problems/diameter-of-binary-tree/solutions/7232237/java-beats-100-on-by-zerogrind-denr
