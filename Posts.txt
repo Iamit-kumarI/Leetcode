@@ -624,8 +624,10 @@ https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/72
 https://leetcode.com/problems/make-array-elements-equal-to-zero/solutions/7306962/java-recursion-on-by-zerogrind-ioxt
 https://leetcode.com/problems/make-array-elements-equal-to-zero/solutions/7306985/java-simple-recursion-on-by-amitk300-jhvd
 
-#3370. Smallest Number With All Set Bits
+#@3370. Smallest Number With All Set Bits
 https://leetcode.com/problems/smallest-number-with-all-set-bits/solutions/7004474/java-beats-100-ologn-by-amitk300-cr0g
+https://leetcode.com/problems/smallest-number-with-all-set-bits/solutions/7309101/java-beats-100-bit-manupulation-by-amitk-kmyx
+https://leetcode.com/problems/smallest-number-with-all-set-bits/solutions/7309104/java-beats-100-bit-manupulation-by-zerog-bl3u
 
 #@3461. Check If Digits Are Equal in String After Operations I
 https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/solutions/7294500/java-beats-100-recursion-by-amitk300-uqy7
