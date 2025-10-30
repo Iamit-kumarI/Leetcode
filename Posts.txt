@@ -617,6 +617,9 @@ https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/solut
 https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000145/java-beats-100-recursive-solution-by-ami-zjoo
 https://leetcode.com/problems/first-letter-to-appear-twice/solutions/7000196/java-beats-100-simple-solution-by-amitk3-i6lu
 
+2733. Neither Minimum nor Maximum
+https://leetcode.com/problems/neither-minimum-nor-maximum/solutions/7312826/java-best-solution-in-place-sorting-by-z-bwcg
+
 @3005. Count Elements With Maximum Frequency
 https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7212961/java-beats-100-o-n
 
