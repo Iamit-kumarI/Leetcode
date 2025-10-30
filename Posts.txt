@@ -511,7 +511,8 @@ https://leetcode.com/problems/delete-node-in-a-linked-list/solutions/7150990/jav
 #242. Valid Anagram
 https://leetcode.com/problems/valid-anagram/solutions/7179494/java-beats-100-o-n
 
-#268. Missing Number
+#@268. Missing Number
+https://leetcode.com/problems/missing-number/solutions/6974474/java-beats100-on-by-amitk300-ajrs
 https://leetcode.com/problems/missing-number/solutions/6974474/java-beats100-on-by-amitk300-ajrs
 
 #287. Find the Duplicate Number
