@@ -523,8 +523,9 @@ https://leetcode.com/problems/odd-even-linked-list/solutions/7168476/java-beats-
 #342. Power of Four
 https://leetcode.com/problems/power-of-four/solutions/7037172/java-beats-100-ologn-by-amitk300-jjz9/
 
-#344. Reverse String
+#@344. Reverse String
 https://leetcode.com/problems/reverse-string/solutions/6944065/java-simple-for-loop-via-recusion-as-wel-zpel
+https://leetcode.com/problems/reverse-string/solutions/7312855/java-two-pointer-beats-100-by-zerogrind-3qsj
 
 #367. Valid Perfect Square
 https://leetcode.com/problems/valid-perfect-square/solutions/7083664/java-beats-100-one-line-solution-by-amit-thvw
