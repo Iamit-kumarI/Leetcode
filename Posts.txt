@@ -628,6 +628,9 @@ https://leetcode.com/problems/neither-minimum-nor-maximum/solutions/7312826/java
 @3005. Count Elements With Maximum Frequency
 https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7212961/java-beats-100-o-n
 
+@3217. Delete Nodes From Linked List Present in Array
+https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/solutions/7318198/java-binarysearch-linkedlist-beats-100-b-xmds
+
 #@3354. Make Array Elements Equal to Zero
 https://leetcode.com/problems/make-array-elements-equal-to-zero/solutions/7306962/java-recursion-on-by-zerogrind-ioxt
 https://leetcode.com/problems/make-array-elements-equal-to-zero/solutions/7306985/java-simple-recursion-on-by-amitk300-jhvd
