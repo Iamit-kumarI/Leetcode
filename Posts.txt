@@ -324,8 +324,9 @@ https://leetcode.com/problems/n-queens/solutions/7040149/java-beats-100-time-spa
 @58. Length of Last Word
 https://leetcode.com/problems/length-of-last-word/solutions/7256598/java-beats-100-o-n
 
-#61. Rotate List
+#@61. Rotate List
 https://leetcode.com/problems/rotate-list/solutions/7138705/java-beats-100-on-by-amitk300-zmnt
+https://leetcode.com/problems/rotate-list/solutions/7316527/java-2d-dp-beats-100-by-zerogrind-fam0
 
 @62. Unique Paths
 https://leetcode.com/problems/unique-paths/solutions/7304333/java-2d-dp-recursion-beats-100-by-zerogr-yicq
