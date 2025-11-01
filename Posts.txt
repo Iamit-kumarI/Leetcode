@@ -284,9 +284,9 @@ https://leetcode.com/problems/valid-parentheses/solutions/7165188/java-beats-100
 @https://leetcode.com/problems/valid-parentheses/solutions/7203668/java-beats-100-o-n
 
 
-#21. Merge Two Sorted Lists
+#@21. Merge Two Sorted Lists
 https://leetcode.com/problems/merge-two-sorted-lists/solutions/7120554/java-100-on-m-by-amitk300-ghje
-
+https://leetcode.com/problems/merge-two-sorted-lists/solutions/7316219/java-node-beats-100-by-zerogrind-g87a
 
 #24. Swap Nodes in Pairs
 https://leetcode.com/problems/swap-nodes-in-pairs/solutions/7145974/java-beats-100-on-by-amitk300-uye5
