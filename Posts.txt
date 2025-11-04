@@ -518,6 +518,9 @@ https://leetcode.com/problems/valid-anagram/solutions/7179494/java-beats-100-o-n
 https://leetcode.com/problems/missing-number/solutions/6974474/java-beats100-on-by-amitk300-ajrs
 https://leetcode.com/problems/missing-number/solutions/6974474/java-beats100-on-by-amitk300-ajrs
 
+#283. Move Zeroes
+https://leetcode.com/problems/move-zeroes/solutions/7325520/java-two-pointer-beats-100-by-amitk300-4bi1
+
 #287. Find the Duplicate Number
 https://leetcode.com/problems/find-the-duplicate-number/solutions/6980816/java-5-lines-of-code-o1-const-by-amitk30-3bkh
 
