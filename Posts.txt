@@ -304,6 +304,9 @@ https://leetcode.com/problems/remove-element/solutions/7252587/java-beats-100-o-
 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7093122/java-beats-100-om-n-by-amitk300-5fkp
 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7253005/java-beats-100-ologn-by-zerogrind-n4ja
 
+@34. Find First and Last Position of Element in Sorted Array
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/7329382/java-binarysearch-beats-100-by-zerogrind-bq4q
+
 # @33. Search in Rotated Sorted Array
 https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/6971633/java-solution-100-binary-search-ologn-by-a2oo
 https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/7212737/java-beats-100-o-n
@@ -315,7 +318,8 @@ https://leetcode.com/problems/search-insert-position/solutions/7284939/java-bina
 @41. First Missing Positive
 https://leetcode.com/problems/first-missing-positive/solutions/7277443/java-beats-100-sorting-approach
 
-#50. Pow(x, n)
+#@50. Pow(x, n)
+https://leetcode.com/problems/powx-n/solutions/7308993/java-beats-100-recursion-approach-by-ami-h8og
 https://leetcode.com/problems/powx-n/solutions/7308993/java-beats-100-recursion-approach-by-ami-h8og
 
 #51. N-Queens
@@ -413,6 +417,9 @@ https://leetcode.com/problems/path-sum/solutions/7232610/java-beats-100-on-by-ze
 
 @114. Flatten Binary Tree to Linked List
 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/7239070/java-beats-100-on-by-zerogrind-6e70
+
+@113. Path Sum II
+https://leetcode.com/problems/path-sum-ii/solutions/7326534/java-backtracking-beats-100-by-zerogrind-nd1h
 
 @116. Populating Next Right Pointers in Each Node
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/solutions/7227654/java-beats-100-o1-extra-space-by-zerogri-g4kx
