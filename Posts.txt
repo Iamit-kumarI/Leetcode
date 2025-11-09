@@ -621,6 +621,10 @@ https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299463
 https://leetcode.com/problems/simple-bank-system/solutions/7301627/java-o1-oops-concepts-by-amitk300-74gh
 https://leetcode.com/problems/simple-bank-system/solutions/7301624/java-oops-concepts-o1-by-zerogrind-c0cz
 
+@#2169. Count Operations to Obtain Zero
+https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7335859/java-loop-beats-100-by-zerogrind-jeuh
+https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7335858/java-loop-beats-100-by-amitk300-ncm7
+
 @2221. Find Triangular Sum of an Array
 https://leetcode.com/problems/find-triangular-sum-of-an-array/solutions/7235492/java-o-n-queue-approach
 https://leetcode.com/problems/find-triangular-sum-of-an-array/solutions/7235578/java-beats-100-recursion-approach
