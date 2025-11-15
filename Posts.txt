@@ -587,6 +587,9 @@ https://leetcode.com/problems/two-sum-iv-input-is-a-bst/solutions/7348985/java-d
 #693. Binary Number with Alternating Bits
 https://leetcode.com/problems/binary-number-with-alternating-bits/solutions/6979845/java-ologn-beats-100-by-amitk300-lafg
 
+#700. Search in a Binary Search Tree
+https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/7346865/java-dfs-100-speed-beast-by-amitk300-c3uf
+
 #704 binary search LTC 
 https://leetcode.com/problems/binary-search/solutions/6942909/recursive-simple-binary-search
 
