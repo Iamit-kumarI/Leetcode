@@ -351,6 +351,10 @@ https://codeforces.com/problemset/problem/71/A
 #74. Search a 2D Matrix
 #https://leetcode.com/problems/search-a-2d-matrix/solutions/7076727/java-beats-100-recursive-solution-by-ami-ye17
 
+@#75. Sort Colors
+https://leetcode.com/problems/sort-colors/solutions/7349042/java-arrays-100-speed-beast-by-zerogrind-rsui
+https://leetcode.com/problems/sort-colors/solutions/7346423/java-two-pointers-beats-100-by-amitk300-n1g3
+
 #78. Subsets
 https://leetcode.com/problems/subsets/solutions/7006498/java-simple-list-approach-by-amitk300-0nzv
 
