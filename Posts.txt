@@ -616,6 +616,10 @@ https://leetcode.com/problems/largest-perimeter-triangle/solutions/7231720/java-
 @993. Cousins in Binary Trees
 https://leetcode.com/problems/cousins-in-binary-tree/solutions/7228393/java-beats-100-on-by-zerogrind-xaff
 
+#@1437. Check If All 1's Are at Least Length K Places Away
+https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/solutions/7354067/java-two-pointers-beats-100-by-amitk300-3bhf
+https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/solutions/7354066/java-two-pointers-beats-100-by-zerogrind-o6lv
+
 #1480. Running Sum of 1d Array
 https://leetcode.com/problems/running-sum-of-1d-array/solutions/7168855/java-beats-100-on-by-amitk300-t0pq
 
