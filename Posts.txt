@@ -376,8 +376,8 @@ https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/7165084/j
 #86. Partition List
 https://leetcode.com/problems/partition-list/solutions/7293578/java-two-pointer-beats-100
 
-#88. Merge Sorted Array
-
+#@88. Merge Sorted Array
+https://leetcode.com/problems/merge-sorted-array/solutions/7355902/java-loop-index-beats-100-by-zerogrind-vicr
 
 #90. Subsets II
 https://leetcode.com/problems/subsets-ii/solutions/7025499/java-bests-100-simple-solution-by-amitk3-ssej
