@@ -643,6 +643,10 @@ https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299463
 https://leetcode.com/problems/simple-bank-system/solutions/7301627/java-o1-oops-concepts-by-amitk300-74gh
 https://leetcode.com/problems/simple-bank-system/solutions/7301624/java-oops-concepts-o1-by-zerogrind-c0cz
 
+@#2154. Keep Multiplying Found Values by Two
+https://leetcode.com/problems/keep-multiplying-found-values-by-two/solutions/7358814/java-recursion-beats-100-by-zerogrind-y0ae
+https://leetcode.com/problems/keep-multiplying-found-values-by-two/solutions/7358813/java-recursion-linearsearch-beats-100-by-jpzy
+
 @#2169. Count Operations to Obtain Zero
 https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7335859/java-loop-beats-100-by-zerogrind-jeuh
 https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7335858/java-loop-beats-100-by-amitk300-ncm7
