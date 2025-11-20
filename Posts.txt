@@ -433,6 +433,8 @@ https://leetcode.com/problems/path-sum-ii/solutions/7326534/java-backtracking-be
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/solutions/7227654/java-beats-100-o1-extra-space-by-zerogri-g4kx
 
 #@120. Triangle
+https://leetcode.com/problems/triangle/solutions/7359961/java-dp-recursion-beats-100-by-amitk300-0nfz
+https://leetcode.com/problems/triangle/solutions/7339703/java-dp-beats-100-by-zerogrind-a5jx
 
 #@125. Valid Palindrome
 https://leetcode.com/problems/valid-palindrome/solutions/6980911/java-recursive-solution-o1-by-amitk300-8ahj
