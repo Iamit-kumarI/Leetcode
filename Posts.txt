@@ -647,6 +647,9 @@ https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solution
 https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299462/java-recursive-solution-beats-100-by-ami-4w4c
 https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299463/java-beats-100-recursive-solution-by-zer-36nk
 
+#1941. Check if All Characters Have Equal Number of Occurrences
+https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/solutions/7363541/java-string-beats-100-by-amitk300-2u0g
+
 #@2043. Simple Bank System
 https://leetcode.com/problems/simple-bank-system/solutions/7301627/java-o1-oops-concepts-by-amitk300-74gh
 https://leetcode.com/problems/simple-bank-system/solutions/7301624/java-oops-concepts-o1-by-zerogrind-c0cz
