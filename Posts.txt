@@ -432,9 +432,10 @@ https://leetcode.com/problems/path-sum-ii/solutions/7326534/java-backtracking-be
 @116. Populating Next Right Pointers in Each Node
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/solutions/7227654/java-beats-100-o1-extra-space-by-zerogri-g4kx
 
-#125. Valid Palindrome
+#@125. Valid Palindrome
 https://leetcode.com/problems/valid-palindrome/solutions/6980911/java-recursive-solution-o1-by-amitk300-8ahj
 https://leetcode.com/problems/valid-palindrome/solutions/6980977/java-brute-force-approach-o1-by-amitk300-dtvh
+https://leetcode.com/problems/valid-palindrome/solutions/7362664/java-two-pointer-beats-100-by-zerogrind-itz1
 
 @127. Word Ladder
 https://leetcode.com/problems/word-ladder/solutions/7262604/java-beats-100-bfs-approach
