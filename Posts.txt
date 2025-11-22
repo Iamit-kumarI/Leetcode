@@ -679,6 +679,9 @@ https://leetcode.com/problems/neither-minimum-nor-maximum/solutions/7312826/java
 @3005. Count Elements With Maximum Frequency
 https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7212961/java-beats-100-o-n
 
+@3190. Find Minimum Operations to Make All Elements Divisible by Three
+
+
 @#3217. Delete Nodes From Linked List Present in Array
 https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/solutions/7318213/java-linkedlist-beats-100-by-amitk300-ok6i
 https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/solutions/7318198/java-binarysearch-linkedlist-beats-100-b-xmds
@@ -698,6 +701,10 @@ https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operatio
 
 #3541. Find Most Frequent Vowel and Consonant
 https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7186849/java-beats-100-on-by-amitk300-ga08
+
+@3751. Total Waviness of Numbers in Range I
+
+@3750. Minimum Number of Flips to Reverse Binary String
 
 git add Posts.txt
 git commit -m "Updated Posts.txt"
