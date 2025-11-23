@@ -626,6 +626,10 @@ https://leetcode.com/problems/largest-perimeter-triangle/solutions/7231720/java-
 @993. Cousins in Binary Trees
 https://leetcode.com/problems/cousins-in-binary-tree/solutions/7228393/java-beats-100-on-by-zerogrind-xaff
 
+@#1262. Greatest Sum Divisible by Three
+https://leetcode.com/problems/greatest-sum-divisible-by-three/solutions/7368204/java-beats-100-dp-solution-by-zerogrind-w8y8
+https://leetcode.com/problems/greatest-sum-divisible-by-three/solutions/7368205/java-beats-100-dp-solution-by-amitk300-hz58
+
 #@1437. Check If All 1's Are at Least Length K Places Away
 https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/solutions/7354067/java-two-pointers-beats-100-by-amitk300-3bhf
 https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/solutions/7354066/java-two-pointers-beats-100-by-zerogrind-o6lv
