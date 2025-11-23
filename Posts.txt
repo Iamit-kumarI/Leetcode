@@ -661,6 +661,9 @@ https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occur
 https://leetcode.com/problems/simple-bank-system/solutions/7301627/java-o1-oops-concepts-by-amitk300-74gh
 https://leetcode.com/problems/simple-bank-system/solutions/7301624/java-oops-concepts-o1-by-zerogrind-c0cz
 
+#2047. Number of Valid Words in a Sentence
+https://leetcode.com/problems/number-of-valid-words-in-a-sentence/solutions/7370341/java-beats-100-3-checks-by-amitk300-8ldm
+
 @#2154. Keep Multiplying Found Values by Two
 https://leetcode.com/problems/keep-multiplying-found-values-by-two/solutions/7358814/java-recursion-beats-100-by-zerogrind-y0ae
 https://leetcode.com/problems/keep-multiplying-found-values-by-two/solutions/7358813/java-recursion-linearsearch-beats-100-by-jpzy
