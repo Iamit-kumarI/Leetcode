@@ -613,6 +613,9 @@ https://leetcode.com/problems/binary-search/solutions/6942909/recursive-simple-b
 #803 flip bit
 https://leetcode.com/problems/flipping-an-image/solutions/6962190/java-solution-onm-cont-space-by-amitk300-ex6r
 
+#844. Backspace String Compare
+https://leetcode.com/problems/backspace-string-compare/solutions/7378191/java-beats-100-stackcrazy-solution-by-am-u7zc
+
 #876. Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/solutions/7126918/java-beats-100-on-by-amitk300-7g5s
 
