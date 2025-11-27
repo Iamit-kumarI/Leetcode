@@ -573,6 +573,9 @@ https://leetcode.com/problems/first-unique-character-in-a-string/solutions/73703
 #389. Find the Difference
 https://leetcode.com/problems/find-the-difference/solutions/7044544/java-beats-100-3-lines-of-code-by-amitk3-javl
 
+#392. Is Subsequence
+https://leetcode.com/problems/is-subsequence/solutions/7378221/java-beats-100-string-by-amitk300-qvg9
+
 #397. Integer Replacement
 https://leetcode.com/problems/integer-replacement/solutions/6991701/java-solution-100-logn-by-amitk300-0cby
 
