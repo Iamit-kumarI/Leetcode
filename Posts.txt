@@ -15,7 +15,7 @@ Traversal, insertion, deletion ✅
 
 Prefix sums / Sliding Window
 
-Two-pointer techniques
+Two-pointer techniques ✅
 
 Sorting algorithms (Bubble ✅, Selection ✅, Insertion ✅, Merge ✅, Quick)
 
@@ -33,7 +33,7 @@ Palindrome checking ✅
 
 String reversal / rotation✅
 
-Substring / Subsequence
+Substring / Subsequence 
 
 Anagram checking ✅
 
@@ -75,7 +75,7 @@ Circular Queue ✅
 
 Deque (Double-ended Queue) ✅
 
-Stack using Queue / Queue using Stack
+Stack using Queue / Queue using Stack ✅
 
 Sliding Window Maximum
 
@@ -85,27 +85,27 @@ Binary Tree & Binary Search Tree (BST ✅)
 
 Traversals: Inorder✅, Preorder✅, Postorder✅ (both recursive & iterative)
 
-Height / Depth of Tree
+Height / Depth of Tree ✅
 
-Lowest Common Ancestor (LCA)
+Lowest Common Ancestor (LCA)✅
 
-Symmetric Tree, Same Tree, Mirror Tree
+Symmetric Tree, Same Tree, Mirror Tree✅
 
-Level Order Traversal (BFS)
+Level Order Traversal (BFS)✅
 
-Diameter of Binary Tree
+Diameter of Binary Tree✅
 
-Convert Sorted Array to BST
+Convert Sorted Array to BST ✅
 
 🔹 Heaps & Priority Queue
 
-Min Heap / Max Heap
+Min Heap / Max Heap✅
 
-Heap Sort
+Heap Sort✅
 
-Kth largest/smallest element
+Kth largest/smallest element✅
 
-Top K frequent elements
+Top K frequent elements✅
 
 Merge K sorted arrays
 
@@ -141,7 +141,7 @@ Connected Components
 
 Permutations / Combinations
 
-N-Queens Problem
+N-Queens Problem✅
 
 Rat in a Maze
 
@@ -153,11 +153,11 @@ Generate Parentheses
 
 🔹 Dynamic Programming (DP)
 
-Start with patterns:
+Start with patterns:✅
 
-Fibonacci (Top-down / Bottom-up)
+Fibonacci (Top-down / Bottom-up)✅
 
-Climbing Stairs
+Climbing Stairs✅
 
 0/1 Knapsack
 
@@ -187,11 +187,11 @@ Minimum Coins for Change
 
 Bit Manipulation (XOR tricks ✅, subsets)
 
-Modular Arithmetic
+Modular Arithmetic✅
 
 Sliding Window & Two Pointers
 
-Binary Search on Answer
+Binary Search on Answer✅
 
 Disjoint Set Union (Union-Find)
 
@@ -217,24 +217,39 @@ Arrays & Strings ✅
 
 Linked List ✅
 
-Stack & Queue
+Stack & Queue✅
 
-Recursion + Backtracking ...
+Recursion + Backtracking ...✅
 
-Trees
+Trees✅
 
-Binary Search & Sorting
+Binary Search & Sorting✅
 
-HashMap & Sets
+HashMap & Sets✅
 
-Heap
+Heap✅
 
 Graphs
 
-Dynamic Programming
+Dynamic Programming...
 
-Greedy
+Greedy✅
 
+DevelopMent
+
+Spring Boot ...
+
+Spring MVC
+
+JPA / Hibernate
+
+Spring Security
+
+JWT
+
+REST APIs✅
+
+MySQL / MongoDB
 
 
 ____________________ leetcode + Codeforces_____________________________________________________________//need to update false
