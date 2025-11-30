@@ -628,6 +628,9 @@ https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/7346865/j
 #704 binary search LTC 
 https://leetcode.com/problems/binary-search/solutions/6942909/recursive-simple-binary-search
 
+#720. Longest Word in Dictionary
+https://leetcode.com/problems/longest-word-in-dictionary/solutions/7382718/java-beats-100-set-by-amitk300-wnxn
+
 #803 flip bit
 https://leetcode.com/problems/flipping-an-image/solutions/6962190/java-solution-onm-cont-space-by-amitk300-ex6r
 
@@ -692,6 +695,9 @@ https://leetcode.com/problems/keep-multiplying-found-values-by-two/solutions/735
 @#2169. Count Operations to Obtain Zero
 https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7335859/java-loop-beats-100-by-zerogrind-jeuh
 https://leetcode.com/problems/count-operations-to-obtain-zero/solutions/7335858/java-loop-beats-100-by-amitk300-ncm7
+
+#2185. Counting Words With a Given Prefix
+https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/7382736/java-beats-100-string-by-amitk300-yql5
 
 @2221. Find Triangular Sum of an Array
 https://leetcode.com/problems/find-triangular-sum-of-an-array/solutions/7235492/java-o-n-queue-approach
