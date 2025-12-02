@@ -581,6 +581,9 @@ https://leetcode.com/problems/power-of-four/solutions/7037172/java-beats-100-olo
 https://leetcode.com/problems/reverse-string/solutions/6944065/java-simple-for-loop-via-recusion-as-wel-zpel
 https://leetcode.com/problems/reverse-string/solutions/7312855/java-two-pointer-beats-100-by-zerogrind-3qsj
 
+#345. Reverse Vowels of a String
+https://leetcode.com/problems/reverse-vowels-of-a-string/solutions/7388144/java-beats-100-char-array-by-amitk300-6gun
+
 #367. Valid Perfect Square
 https://leetcode.com/problems/valid-perfect-square/solutions/7083664/java-beats-100-one-line-solution-by-amit-thvw
 
@@ -660,6 +663,9 @@ https://leetcode.com/problems/cousins-in-binary-tree/solutions/7228393/java-beat
 @#1262. Greatest Sum Divisible by Three
 https://leetcode.com/problems/greatest-sum-divisible-by-three/solutions/7368204/java-beats-100-dp-solution-by-zerogrind-w8y8
 https://leetcode.com/problems/greatest-sum-divisible-by-three/solutions/7368205/java-beats-100-dp-solution-by-amitk300-hz58
+
+#1370. Increasing Decreasing String
+https://leetcode.com/problems/increasing-decreasing-string/solutions/7387468/java-beats-100-freq-by-amitk300-e6jf
 
 #@1437. Check If All 1's Are at Least Length K Places Away
 https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/solutions/7354067/java-two-pointers-beats-100-by-amitk300-3bhf
