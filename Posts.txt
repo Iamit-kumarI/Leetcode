@@ -690,6 +690,10 @@ https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solution
 https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299462/java-recursive-solution-beats-100-by-ami-4w4c
 https://leetcode.com/problems/calculate-money-in-leetcode-bank/solutions/7299463/java-beats-100-recursive-solution-by-zer-36nk
 
+#@1925. Count Square Sum Triples
+https://leetcode.com/problems/count-square-sum-triples/solutions/7399313/java-beats-100-hashset-by-amitk300-cwd5
+https://leetcode.com/problems/count-square-sum-triples/solutions/7399312/java-beats-100-hashset-by-zerogrind-8kq2
+
 #1941. Check if All Characters Have Equal Number of Occurrences
 https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/solutions/7363541/java-string-beats-100-by-amitk300-2u0g
 
