@@ -755,6 +755,10 @@ https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operatio
 #3541. Find Most Frequent Vowel and Consonant
 https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7186849/java-beats-100-on-by-amitk300-ga08
 
+#@3577. Count the Number of Computer Unlocking Permutations
+https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/solutions/7405629/java-easiest-solution-beats-100-by-amitk-szd7
+https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/solutions/7405628/java-factorial-solution-beats-100-by-zer-glqn
+
 @3751. Total Waviness of Numbers in Range I
 
 @3750. Minimum Number of Flips to Reverse Binary String
