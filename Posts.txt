@@ -366,6 +366,9 @@ https://leetcode.com/problems/climbing-stairs/solutions/7286375/java-dp-memoizat
 $71A. A. Way Too Long Words
 https://codeforces.com/problemset/problem/71/A
 
+@73. Set Matrix Zeroes
+https://leetcode.com/problems/set-matrix-zeroes/solutions/7375688/java-beats-100-matrix-1d-logic-by-zerogr-nlob
+
 #74. Search a 2D Matrix
 #https://leetcode.com/problems/search-a-2d-matrix/solutions/7076727/java-beats-100-recursive-solution-by-ami-ye17
 
