@@ -333,6 +333,9 @@ https://leetcode.com/problems/search-insert-position/solutions/7284939/java-bina
 @41. First Missing Positive
 https://leetcode.com/problems/first-missing-positive/solutions/7277443/java-beats-100-sorting-approach
 
+#48. Rotate Image
+https://leetcode.com/problems/rotate-image/solutions/7407879/java-set-math-beats-100-by-amitk300-sgg6
+
 #@50. Pow(x, n)
 https://leetcode.com/problems/powx-n/solutions/7308993/java-beats-100-recursion-approach-by-ami-h8og
 https://leetcode.com/problems/powx-n/solutions/7308993/java-beats-100-recursion-approach-by-ami-h8og
