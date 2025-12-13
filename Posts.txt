@@ -769,6 +769,10 @@ https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/solutions/7
 https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/solutions/7405629/java-easiest-solution-beats-100-by-amitk-szd7
 https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/solutions/7405628/java-factorial-solution-beats-100-by-zer-glqn
 
+#@3606. Coupon Code Validator
+https://leetcode.com/problems/coupon-code-validator/solutions/7409793/java-beats-100-collections-string-by-ami-22pr
+https://leetcode.com/problems/coupon-code-validator/solutions/7409792/java-collections-string-beats-100-by-zer-fk12
+
 @3751. Total Waviness of Numbers in Range I
 
 @3750. Minimum Number of Flips to Reverse Binary String
