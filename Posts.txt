@@ -776,6 +776,7 @@ https://leetcode.com/problems/coupon-code-validator/solutions/7409792/java-colle
 @3751. Total Waviness of Numbers in Range I
 
 @3750. Minimum Number of Flips to Reverse Binary String
+https://discuss.geeksforgeeks.org/comment/aad4ceb8-6426-4d76-a430-a79fa809475c/practice
 
 git add Posts.txt
 git commit -m "Updated Posts.txt"
