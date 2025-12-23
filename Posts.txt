@@ -656,6 +656,9 @@ https://leetcode.com/problems/backspace-string-compare/solutions/7378191/java-be
 #876. Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/solutions/7126918/java-beats-100-on-by-amitk300-7g5s
 
+#908. Smallest Range I
+https://leetcode.com/problems/smallest-range-i/solutions/7432471/java-min-max-beats-100-by-amitk300-00gh
+
 #921. Minimum Add to Make Parentheses Valid
 https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solutions/7165271/java-beats-100-on-by-amitk300-aegk
 
