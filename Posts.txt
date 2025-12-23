@@ -780,6 +780,8 @@ https://leetcode.com/problems/coupon-code-validator/solutions/7409792/java-colle
 gfg mid node value
 https://discuss.geeksforgeeks.org/comment/aad4ceb8-6426-4d76-a430-a79fa809475c/practice
 
+gfg merge two sorted list
+https://discuss.geeksforgeeks.org/comment/db2cca66-f3e8-46d3-8dac-9ffc0ae817d9/practice
 
 git add Posts.txt
 git commit -m "Updated Posts.txt"
