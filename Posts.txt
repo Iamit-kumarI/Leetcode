@@ -745,6 +745,8 @@ https://leetcode.com/problems/neither-minimum-nor-maximum/solutions/7312826/java
 @3005. Count Elements With Maximum Frequency
 https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7212961/java-beats-100-o-n
 
+@#3074. Apple Redistribution into Boxes
+
 @3190. Find Minimum Operations to Make All Elements Divisible by Three
 
 
