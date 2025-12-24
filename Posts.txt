@@ -746,6 +746,8 @@ https://leetcode.com/problems/neither-minimum-nor-maximum/solutions/7312826/java
 https://leetcode.com/problems/count-elements-with-maximum-frequency/solutions/7212961/java-beats-100-o-n
 
 @#3074. Apple Redistribution into Boxes
+https://leetcode.com/problems/apple-redistribution-into-boxes/solutions/7435883/java-sorting-beats-100-by-zerogrind-kslx
+https://leetcode.com/problems/apple-redistribution-into-boxes/solutions/7435884/java-priorityqueue-beats-100-by-amitk300-fgqc
 
 @3190. Find Minimum Operations to Make All Elements Divisible by Three
 
