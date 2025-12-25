@@ -550,6 +550,7 @@ https://leetcode.com/problems/implement-queue-using-stacks/solutions/7162362/jav
 
 #234. Palindrome Linked List - optmise if can dry run also
 https://leetcode.com/problems/palindrome-linked-list/solutions/7134616/java-simple-solution-onlogn-by-amitk300-x5ox
+https://leetcode.com/problems/palindrome-linked-list/solutions/7437375/java-reverselist-beats-100-by-amitk300-kbep
 
 @236. Lowest Common Ancestor of a Binary Tree
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/7232594/java-beats-100-on-by-zerogrind-p3kf
