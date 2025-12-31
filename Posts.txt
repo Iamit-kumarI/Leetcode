@@ -487,6 +487,7 @@ https://leetcode.com/problems/binary-tree-preorder-traversal/solutions/7314074/j
 https://leetcode.com/problems/sort-list/solutions/7127172/java-beats-95-onlogn-by-amitk300-fwmh
 
 #147. Insertion Sort List
+https://leetcode.com/problems/insertion-sort-list/solutions/7452626/java-arraylist-linkedlist-beats-100-by-a-bg3z
 
 #151. Reverse Words in a String
 https://leetcode.com/problems/reverse-words-in-a-string/solutions/7291423/java-string-methods-o-n
