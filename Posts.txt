@@ -685,6 +685,7 @@ https://leetcode.com/problems/increasing-decreasing-string/solutions/7387468/jav
 
 #@1390. Four Divisors
 https://leetcode.com/problems/four-divisors/solutions/7464847/java-1d-dp-beats-100-by-amitk300-a9jh
+https://leetcode.com/problems/four-divisors/solutions/7464864/java-beats-100-dynamic-programming-by-ze-4hbn
 
 #@1437. Check If All 1's Are at Least Length K Places Away
 https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/solutions/7354067/java-two-pointers-beats-100-by-amitk300-3bhf
