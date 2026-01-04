@@ -683,6 +683,9 @@ https://leetcode.com/problems/greatest-sum-divisible-by-three/solutions/7368205/
 #1370. Increasing Decreasing String
 https://leetcode.com/problems/increasing-decreasing-string/solutions/7387468/java-beats-100-freq-by-amitk300-e6jf
 
+#@
+https://leetcode.com/problems/four-divisors/solutions/7464847/java-1d-dp-beats-100-by-amitk300-a9jh
+
 #@1437. Check If All 1's Are at Least Length K Places Away
 https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/solutions/7354067/java-two-pointers-beats-100-by-amitk300-3bhf
 https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/solutions/7354066/java-two-pointers-beats-100-by-zerogrind-o6lv
