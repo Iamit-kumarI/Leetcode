@@ -584,6 +584,7 @@ https://leetcode.com/problems/find-the-duplicate-number/solutions/6980816/java-5
 
 #@
 https://leetcode.com/problems/coin-change/solutions/7473071/java-dp-memoization-beats-100-by-amitk30-upss
+https://leetcode.com/problems/coin-change/solutions/7473069/java-dp-beats-100-by-zerogrind-t6rm
 
 #316. Remove Duplicate Letters
 
