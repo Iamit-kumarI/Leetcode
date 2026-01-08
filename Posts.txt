@@ -630,6 +630,9 @@ https://leetcode.com/contest/weekly-contest-468/problems/maximum-total-subarray-
 https://leetcode.com/problems/fibonacci-number/solutions/6943844/java-3-lines-of-code-recursive-approach
 https://leetcode.com/problems/fibonacci-number/solutions/7308982/java-beats-100-1d-dp :optimised
 
+#516. Longest Palindromic Subsequence
+https://leetcode.com/problems/longest-palindromic-subsequence/solutions/7477616/beats-100-java-solution-by-amitk300-k5um
+
 #@518. Coin Change II
 https://leetcode.com/problems/coin-change-ii/solutions/7474837/beats-100-java-solution-by-amitk300-1hxw
 https://leetcode.com/problems/coin-change-ii/solutions/7474838/beats-100-java-solution-by-zerogrind-3nig
