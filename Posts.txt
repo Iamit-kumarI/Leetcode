@@ -694,7 +694,7 @@ https://leetcode.com/problems/longest-common-subsequence/solutions/7477300/beats
 https://leetcode.com/problems/greatest-sum-divisible-by-three/solutions/7368204/java-beats-100-dp-solution-by-zerogrind-w8y8
 https://leetcode.com/problems/greatest-sum-divisible-by-three/solutions/7368205/java-beats-100-dp-solution-by-amitk300-hz58
 
-#
+#1312. Minimum Insertion Steps to Make a String Palindrome
 https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/solutions/7482875/beats-100-java-solution-by-amitk300-v0dj
 
 #1370. Increasing Decreasing String
