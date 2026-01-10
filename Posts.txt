@@ -641,6 +641,9 @@ https://leetcode.com/problems/coin-change-ii/solutions/7474838/beats-100-java-so
 https://leetcode.com/problems/diameter-of-binary-tree/solutions/7232237/java-beats-100-on-by-zerogrind-denr
 https://leetcode.com/problems/diameter-of-binary-tree/solutions/7341549/java-recursion-beats-100-by-amitk300-1b8p
 
+#583. Delete Operation for Two Strings
+https://leetcode.com/problems/delete-operation-for-two-strings/solutions/7483094/beats-100-java-solution-by-amitk300-dyra
+
 @637. Average of Levels in Binary Tree
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/solutions/7262835/java-bfs-on-set-approach-by-zerogrind-93ya
 https://leetcode.com/problems/average-of-levels-in-binary-tree/solutions/7219071/java-beats-100-o-n
