@@ -369,6 +369,7 @@ $71A. A. Way Too Long Words
 https://codeforces.com/problemset/problem/71/A
 
 #72. Edit Distance
+https://leetcode.com/problems/edit-distance/solutions/7489986/beats-100-java-solution-by-amitk300-bbkk
 
 @#73. Set Matrix Zeroes
 https://leetcode.com/problems/set-matrix-zeroes/solutions/7375688/java-beats-100-matrix-1d-logic-by-zerogr-nlob
