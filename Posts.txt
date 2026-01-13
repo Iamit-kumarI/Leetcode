@@ -335,6 +335,9 @@ https://leetcode.com/problems/search-insert-position/solutions/7284939/java-bina
 @41. First Missing Positive
 https://leetcode.com/problems/first-missing-positive/solutions/7277443/java-beats-100-sorting-approach
 
+#44. Wildcard Matching
+https://leetcode.com/problems/wildcard-matching/solutions/7492497/beats-100-java-solution-by-amitk300-9unz
+
 #48. Rotate Image
 https://leetcode.com/problems/rotate-image/solutions/7407879/java-set-math-beats-100-by-amitk300-sgg6
 
