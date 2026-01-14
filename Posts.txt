@@ -651,6 +651,7 @@ https://leetcode.com/problems/diameter-of-binary-tree/solutions/7232237/java-bea
 https://leetcode.com/problems/diameter-of-binary-tree/solutions/7341549/java-recursion-beats-100-by-amitk300-1b8p
 
 #547. Number of Provinces
+https://leetcode.com/problems/number-of-provinces/solutions/7493929/beats-100-java-solution-by-amitk300-zft9
 
 #583. Delete Operation for Two Strings
 https://leetcode.com/problems/delete-operation-for-two-strings/solutions/7483094/beats-100-java-solution-by-amitk300-dyra
