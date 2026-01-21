@@ -635,6 +635,8 @@ https://leetcode.com/contest/weekly-contest-468/problems/bitwise-or-of-even-numb
 Q2. Maximum Total Subarray Value I
 https://leetcode.com/contest/weekly-contest-468/problems/maximum-total-subarray-value-i/description/
 
+#463. Island Perimeter
+
 #@509. Fibonacci Number
 https://leetcode.com/problems/fibonacci-number/solutions/6943844/java-3-lines-of-code-recursive-approach
 https://leetcode.com/problems/fibonacci-number/solutions/7308982/java-beats-100-1d-dp :optimised
@@ -645,6 +647,9 @@ https://leetcode.com/problems/longest-palindromic-subsequence/solutions/7477616/
 #@518. Coin Change II
 https://leetcode.com/problems/coin-change-ii/solutions/7474837/beats-100-java-solution-by-amitk300-1hxw
 https://leetcode.com/problems/coin-change-ii/solutions/7474838/beats-100-java-solution-by-zerogrind-3nig
+
+#542. 01 Matrix
+https://leetcode.com/problems/01-matrix/solutions/7512342/beats-100-java-solution-by-amitk300-vcmf
 
 @#543. Diameter of Binary Tree
 https://leetcode.com/problems/diameter-of-binary-tree/solutions/7232237/java-beats-100-on-by-zerogrind-denr
