@@ -480,6 +480,9 @@ https://leetcode.com/problems/word-ladder/solutions/7262604/java-beats-100-bfs-a
 @129. Sum Root to Leaf Numbers
 https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/7232654/java-beats-100-on-by-zerogrind-cshj
 
+#130. Surrounded Regions
+https://leetcode.com/problems/surrounded-regions/solutions/7517281/beats-100-java-solution-by-amitk300-vo9o
+
 #@141. Linked List Cycle no optimise bets 15% only
 https://leetcode.com/problems/linked-list-cycle/solutions/7123261/java-on-o1-by-amitk300-d6ib
 https://leetcode.com/problems/linked-list-cycle/solutions/7123289/java-beats-100-on-by-amitk300-crv8
