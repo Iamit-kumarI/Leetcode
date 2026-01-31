@@ -690,6 +690,9 @@ https://leetcode.com/problems/longest-word-in-dictionary/solutions/7382718/java-
 #733. Flood Fill
 https://leetcode.com/problems/flood-fill/solutions/7509090/beats-100-java-solution-by-amitk300-l05f
 
+#@ 744. Find Smallest Letter Greater Than Target
+
+https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/7538179/java-hashmap-beats-100-by-zerogrind-v3fo
 #803 flip bit
 https://leetcode.com/problems/flipping-an-image/solutions/6962190/java-solution-onm-cont-space-by-amitk300-ex6r
 
