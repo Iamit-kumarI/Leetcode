@@ -550,6 +550,7 @@ https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7107555/java-b
 https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7295501/java-two-pointer-beats-100
 
 #210. Course Schedule II
+https://leetcode.com/problems/course-schedule-ii/solutions/7552780/beats-100-java-solution-by-amitk300-39yj
 
 #219. Contains Duplicate II
 https://leetcode.com/problems/contains-duplicate-ii/solutions/7385634/java-beats-100-sliding-window-by-amitk30-a6y1
