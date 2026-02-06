@@ -545,6 +545,9 @@ https://leetcode.com/problems/remove-linked-list-elements/solutions/7150949/java
 -recursive approach: https://leetcode.com/problems/reverse-linked-list/solutions/7130547/java-100-on-by-amitk300-2ayo
 -inPlace approach 3 pointers:https://leetcode.com/problems/reverse-linked-list/solutions/7200399/java-beats-100-o-n
 
+#
+https://leetcode.com/problems/course-schedule/solutions/7557257/beats-100-java-solution-by-amitk300-ymir
+
 #209. Minimum Size Subarray Sum
 https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7107555/java-beats-100-simple-solution-by-amitk3-x4vw
 https://leetcode.com/problems/minimum-size-subarray-sum/solutions/7295501/java-two-pointer-beats-100
